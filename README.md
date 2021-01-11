@@ -34,6 +34,8 @@ Navegue até a pasta "course-manager " e execute no terminal:
 ng serve
 ```
 
+Acesse a url `http://localhost:4200/`
+
 ## Requisitos
 
 - Node js v12.x
